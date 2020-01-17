@@ -1,0 +1,26 @@
+{
+  "name": "antd-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "umi": "^2.12.7",
+    "umi-plugin-react": "^1.14.10"
+  },
+  "dependencies": {
+    "@antv/g2": "^3.5.11",
+    "antd": "^3.26.4",
+    "moment": "^2.24.0",
+    "prop-types": "^15.7.2",
+    "react-pdf": "^4.1.0",
+    "reqwest": "^2.0.5"
+  }
+}
